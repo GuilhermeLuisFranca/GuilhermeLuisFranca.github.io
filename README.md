@@ -1,0 +1,1 @@
+# Este não é meu perfil original, [o original é gulybyte](https://github.com/gulybyte). Aqui apenas [redireciona página verdadeira](https://gulybyte.github.io/) que carrega o [verdadeiro repositorio](https://github.com/gulybyte/gulybyte.github.io) do meu website. 
